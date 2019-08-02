@@ -1,0 +1,8 @@
+.idea/
+.git/
+.settings/
+report/report.html
+report/api.txt
+variable.db
+.__pycache__/
+.core/__pycache__/

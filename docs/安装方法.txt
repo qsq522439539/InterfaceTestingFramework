@@ -1,0 +1,6 @@
+1.安装BeautifulReport
+git clone https://github.com/TesterlifeRaymond/BeautifulReport
+cp -R BeautifulReport to /python/site-packages/(以自己的python目录为准)
+
+2.安装其他
+pip intall -r requirements.txt

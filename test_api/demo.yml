@@ -1,0 +1,10 @@
+api_Action_getActionLogDetails:
+    headers:
+        content-type: application/x-www-form-urlencoded
+        oid: '1'
+        token: 16a26b459cec116471acfc3a3f13a3bff720b446
+    data:
+        id: 268548
+    method: POST
+    name: /api/Action/getActionLogDetails
+    url: http://xxx.xxx.com/api/Action/getActionLogDetails
